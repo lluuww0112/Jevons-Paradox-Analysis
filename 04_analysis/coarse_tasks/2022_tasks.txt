@@ -1,0 +1,504 @@
+Generation
+Other
+Other
+Other
+Other
+Generation
+Generation
+Referring Expression Segmentation
+Other
+Object Detection
+Object Detection
+Object Detection
+Object Detection
+Generation
+Generation
+Generation
+Generation
+Cross-modal Retrieval
+Other
+Other
+Generation
+Generation
+Other
+Scene Understanding
+Video Understanding
+Feature Learning
+Image Captioning
+Image Captioning
+Image Captioning
+Image Captioning
+Image Captioning
+3D Vision
+Image Captioning
+Image Captioning
+Retrieval
+Retrieval
+Object Detection
+Object Detection
+Object Detection
+Object Detection
+Object Detection
+Video Understanding
+Feature Learning
+Feature Learning
+Visual Grounding
+Visual Grounding
+Visual Grounding
+Other
+Other
+Image Captioning
+Image Captioning
+Image Captioning
+Image Captioning
+Image Captioning
+Video Retrieval
+Image Classification
+Image Classification
+Image Classification
+Image Classification
+Cross-modal Understanding
+Other
+Other
+Semantic Segmentation
+Image Captioning
+Image Captioning
+Image Captioning
+3D Generation
+Other
+Image Restoration
+Image Restoration
+Image Restoration
+Image Restoration
+Image Restoration
+Image Restoration
+Image Restoration
+Image Restoration
+Image Generation
+Generation
+Other
+Optical Flow
+Optical Flow
+Semantic Segmentation
+Other
+Navigation
+Navigation
+Image Classification
+Other
+Pose Estimation
+Other
+Pose Estimation
+Other
+Semantic Segmentation
+Semantic Segmentation
+Action Recognition
+Action Recognition
+Action Recognition
+Action Recognition
+Action Recognition
+Other
+Zero-shot Learning
+Feature Learning
+Generation
+Other
+Zero-shot Learning
+Video Retrieval
+Other
+Video Question Answering
+Video Question Answering
+Video Question Answering
+Video Question Answering
+Other
+Visual Question Answering
+Other
+Image Classification
+Image Classification
+Image Classification
+Image Classification
+Image Classification
+Object Detection
+Object Detection
+Video Action Recognition
+Scene Graph Generation
+Action Recognition
+Action Recognition
+Zero-shot Learning
+Zero-shot Learning
+Zero-shot Learning
+Zero-shot Learning
+Zero-shot Learning
+Zero-shot Learning
+Zero-shot Learning
+Zero-shot Learning
+Zero-shot Learning
+Video Understanding
+Other
+Retrieval
+Other
+Action Recognition
+Action Recognition
+Action Recognition
+Action Recognition
+Action Recognition
+Segmentation
+Segmentation
+Visual Question Answering
+Object Detection
+Object Detection
+Other
+Other
+Other
+Image Classification
+Other
+Estimation
+Other
+3D Vision
+Other
+3D Vision
+Image Classification
+Image Classification
+Semantic Segmentation
+Retrieval
+Retrieval
+Retrieval
+Generation
+Generation
+Semantic Segmentation
+Object Detection
+Instance Segmentation
+Zero-shot Learning
+Zero-shot Learning
+Zero-shot Learning
+Zero-shot Learning
+Zero-shot Learning
+Zero-shot Learning
+Visual Question Answering
+Visual Question Answering
+Visual Question Answering
+Visual Question Answering
+Image Classification
+Image Classification
+Visual Grounding
+Visual Grounding
+Other
+Other
+3D Vision
+Video Understanding
+Video Understanding
+Video Understanding
+Other
+Other
+Other
+Visual Question Answering
+Image Captioning
+Image Captioning
+Image Classification
+Image Classification
+Segmentation
+Generation
+Generation
+Generation
+Other
+Object Detection
+Object Detection
+Image Classification
+Image Captioning
+Image Captioning
+Semantic Segmentation
+Image Restoration
+Image Restoration
+3D Pose Estimation
+3D Pose Estimation
+3D Pose Estimation
+3D Pose Estimation
+Image Generation
+Image Restoration
+Image Generation
+Text-to-Image Generation
+Image Restoration
+Referring Expression Segmentation
+Referring Expression Segmentation
+Referring Expression Segmentation
+Referring Expression Segmentation
+Visual Grounding
+Visual Grounding
+Image Classification
+Object Detection
+Image Retrieval
+Semantic Segmentation
+Segmentation
+Zero-shot Learning
+Other
+Other
+Other
+Other
+Other
+Semantic Segmentation
+Semantic Segmentation
+Semantic Segmentation
+Autonomous Driving
+Image Classification
+Image Classification
+Image Classification
+Image Classification
+Vision-Language Understanding
+Image Classification
+Image Classification
+Visual Question Answering
+Visual Question Answering
+Image Restoration
+Image Restoration
+Image Restoration
+3D Vision
+Other
+Other
+Other
+Other
+Other
+Other
+3D Vision
+Image Classification
+Image Classification
+Image Classification
+Other
+Other
+Video Understanding
+Image Classification
+Referring Expression Segmentation
+Referring Expression Segmentation
+Image Restoration
+Image Restoration
+Panoptic Segmentation
+Panoptic Segmentation
+Image Classification
+Image Classification
+Image Classification
+Text-to-Image Generation
+Text-to-Image Generation
+Text-to-Image Generation
+Image Captioning
+Image Captioning
+Depth Estimation
+Action Recognition
+Text-to-Image Generation
+Text-to-Image Generation
+Text-to-Image Generation
+Visual Grounding
+Generation
+Other
+Other
+Other
+Navigation
+Image Classification
+Question Answering
+Segmentation
+Medical Image Analysis
+Visual Dialog
+Cross-modal Understanding
+Other
+Visual Question Answering
+Visual Question Answering
+Visual Question Answering
+3D Reconstruction
+Visual Grounding
+Visual Grounding
+Object Detection
+Object Detection
+Saliency Detection
+Other
+Feature Learning
+Image Classification
+Visual Grounding
+Visual Grounding
+Image Classification
+Image Restoration
+Image Restoration
+Image Restoration
+Other
+Image Classification
+Image Classification
+Other
+Cross-modal Retrieval
+Other
+Object Tracking
+Other
+Visual Grounding
+Visual Grounding
+3D Reconstruction
+3D Vision
+Object Detection
+Object Detection
+Generation
+Generation
+Generation
+Object Detection
+Object Detection
+Object Detection
+Image Captioning
+Image Captioning
+Object Detection
+Object Detection
+Other
+Matching/Correspondence
+3D Pose Estimation
+3D Pose Estimation
+Other
+Other
+Pose Estimation
+Other
+3D Vision
+Other
+Visual Question Answering
+Visual Question Answering
+Image Restoration
+Image Restoration
+Image Restoration
+Image Classification
+Image Classification
+Image Classification
+Image Classification
+Image Classification
+Visual Question Answering
+Instance Segmentation
+Instance Segmentation
+Instance Segmentation
+Cross-modal Understanding
+Image Classification
+Image Classification
+Object Detection
+Image Generation
+Image Restoration
+Other
+Image Classification
+Other
+Image Classification
+Image Classification
+Image Captioning
+Image Classification
+Image Classification
+Image Classification
+Image Classification
+Image Classification
+Image Classification
+Image Classification
+Image Classification
+Object Tracking
+Object Tracking
+Action Recognition
+Generation
+Generation
+Other
+Other
+Other
+Text Detection/Recognition
+Image Classification
+Image Classification
+Image Classification
+Image Classification
+Image Classification
+3D Segmentation
+3D Segmentation
+Text-to-Image Generation
+Image Restoration
+Object Tracking
+Style Transfer
+Image Generation
+Image Captioning
+Matching/Correspondence
+Other
+Other
+Other
+Other
+Object Detection
+Object Detection
+Cross-modal Retrieval
+Cross-modal Retrieval
+Cross-modal Retrieval
+Zero-shot Learning
+Other
+Cross-modal Retrieval
+Video Retrieval
+Face Recognition/Detection
+Face Recognition/Detection
+Image Captioning
+Image Captioning
+Image Captioning
+Image Captioning
+Image Captioning
+Zero-shot Learning
+Zero-shot Learning
+Zero-shot Learning
+Zero-shot Learning
+Zero-shot Learning
+Other
+Video Grounding
+Action Recognition
+Other
+Video Understanding
+Video Understanding
+Other
+Image Classification
+Image Classification
+Image Classification
+Image Classification
+Image Classification
+Image Classification
+Image Classification
+Image Classification
+Semantic Segmentation
+Semantic Segmentation
+Semantic Segmentation
+Navigation
+Navigation
+Navigation
+Navigation
+Image Captioning
+Image Captioning
+Image Captioning
+Image Captioning
+Optical Flow
+Optical Flow
+Image Classification
+Image Classification
+Video Action Recognition
+Video Generation
+Other
+Other
+Other
+Generation
+Other
+Image Classification
+Image Classification
+Image Classification
+Image Classification
+Image Classification
+Other
+Generation
+Navigation
+Navigation
+Navigation
+Image Captioning
+Image Captioning
+Segmentation
+Action Recognition
+Action Recognition
+Action Recognition
+Visual Grounding
+Visual Grounding
+Cross-modal Understanding
+Vision-Language Understanding
+Vision-Language Understanding
+Other
+Generation
+Visual Question Answering
+Visual Question Answering
+Visual Question Answering
+Text Detection/Recognition
+Text Detection/Recognition
+Other
+Other
+Other
+Image Classification
+Image Classification
+Cross-modal Understanding
+Cross-modal Understanding

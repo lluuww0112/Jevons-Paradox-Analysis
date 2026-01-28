@@ -1,0 +1,15 @@
+{
+  "paper": {
+    "model": "llama3.1:70b",
+    "context_size": 8192
+  },
+  "models": {
+    "model": "qwen2.5:32b",
+    "context_size": 4096
+  },
+  "metrics": {
+    "model": "deepseek-r1:7b",
+    "context_size": 4096
+  }
+}
+

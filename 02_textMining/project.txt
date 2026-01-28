@@ -1,0 +1,11 @@
+.
+├── extraxt.py // 정량 데이터 추출
+├── preprocessing.py // pdf파일 전처리
+├── schemas.py // 데이터 스키마 정의
+└── paper 
+    ├── res // 텍스트마이닝을 할 논문 pdf
+    └── result 
+        ├── extracted // 데이터 추출 결과 (csv)
+        └── markdown // pdf파일 전처리한 데이터 (markdown)
+
+        
